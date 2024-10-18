@@ -1,0 +1,13 @@
+{
+    "name": "Valorant - Aleatório",
+    "start_url": "/solteio_personagem/",
+    "display": "standalone",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "img/vava.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
